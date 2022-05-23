@@ -1,0 +1,151 @@
+body{
+    background-color: black;
+    
+}
+
+.Top{
+    display: flex;
+    color: white;
+    margin: 67px;
+    
+
+}
+
+.Logo{
+    display: flex;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+
+
+.Bild{
+    margin-left: 10px;
+}
+
+.Klassrum{
+    padding-top: 5px;
+    margin-left: 10px;
+}
+
+.Mid{
+    display: flex;
+    color: white;
+    justify-content: center;
+    background-color: rgb(211, 211, 211);
+    margin-right: 338px;
+    margin-left: 10px;
+
+}
+
+
+.Elever{
+    display: flex;
+    color: black;
+    background-color: white;
+    justify-content: center;
+    font-family: cursive;
+
+}
+
+
+.ElevBilder{
+    display: flex;
+    align-items: center;
+
+}
+
+.Texter{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.Ashkan{
+    display: flex;
+    color: black;
+    background-color: white;
+    
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    padding-left: 3px;
+
+
+}
+
+.Sanchir{
+    display: flex;
+    color: black;
+    background-color: white;
+    font-size: 20px; 
+    padding-left: 8px;
+    padding-right: 3px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+.Röd{
+    display: flex;
+    background-color: red;
+    justify-content: center;
+    font-family: fantasy;
+
+}
+
+.HTMLDEL{
+    display: grid;
+    grid-template-columns: 35% 35% 30%;
+
+}
+
+.HTMLTEXT{
+    display: flex;
+    color: red;
+    padding-top: 70px;
+    padding-left: 5px;
+    padding-right: 15px;
+}
+
+
+.JS{
+    display: flex;
+    background-color: orange;
+    color: white;
+    justify-content: center;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+
+.JSDEL{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: darkslategray;
+}
+
+.JSTEXT{
+    display: flex;
+    color: orange;
+    font-family: cursive;
+}
+
+
+.SLUT{
+    display: flex;
+    background-color: indigo;
+    justify-content: center;
+
+}
+
+.SLUTPROJEKT{
+    display: flex;
+    color: white;
+    padding-left: 340px;
+    padding-right: 300px;
+    font-size: 20px;
+}
